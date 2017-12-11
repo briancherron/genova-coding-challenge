@@ -8,7 +8,7 @@ This project uses Maven. To run the project:
 
 ## Assumptions Made
 1. The files to read will reside in the ```/resources``` directory of the project. If required, this project may be modified to create an executable JAR and allow the user running the JAR to specificy the file location(s). As that was not in the specifications, the internal ```/resources``` assumption was made.
-1. The output location is the project's root directory, and the file generated is named ```output.txt```.
+1. The output location is the project's root directory, and the file generated is named ```output.csv```.
 
 ## Notes
 * Java Version: 7
