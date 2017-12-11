@@ -11,7 +11,7 @@ This project uses Maven. To run the project:
 1. The output location is the project's root directory, and the file generated is named ```output.csv```.
 
 ## Notes
-* Java Version: 7
+* Java Version: 8
 * IDE: Eclipse Oxygen
 
 ## Sample Ouput
