@@ -5,6 +5,10 @@
   <version>1.0.0</version>
   <name>Genova Code Test</name>
   <description>A coding test for Genova</description>
+  <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <java-version>1.8</java-version>
+    </properties>
   <dependencies>
   	<dependency>
   		<groupId>org.apache.commons</groupId>
